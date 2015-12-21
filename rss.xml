@@ -2,14 +2,35 @@
     <channel>
         <title><![CDATA[deutsch]]></title>
         <description><![CDATA[deutsch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deutsch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:08:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 22:27:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deutsch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deutsch L.A. Launches Product Development Unit, Inventionist]]></title>
+            <description><![CDATA[<article><h1>Deutsch L.A. Launches Product Development Unit, Inventionist</h1><p>As we've noted here, on an ongoing basis, advertising agencies are getting serious about product development. Be it a desire to create beyond the parameters of a campaign, the ability to attract diverse talent, or the pressure to establish new streams of revenue, agencies are beginning to redefine their offering to clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/028792ea6dc7cbe4684265500bb1c5c2e80bde89.jpg"></article>]]></description>
+            <link>http://www.fastcocreate.com/1681749/deutsch-la-launches-product-development-unit-inventionist</link>
+            <guid isPermaLink="false">7c36c216-3700-46e2-be2c-354a5fa7c8bb</guid>
+            <pubDate>Mon, 21 Dec 2015 22:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[contact]]></title>
+            <description><![CDATA[<article><h1>contact</h1><p>us</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dbf3ccd687961398b0954a636b1c23e788d6aa0.png"></article>]]></description>
+            <link>https://thegrid.ai/deutsch/contact/index.html</link>
+            <guid isPermaLink="false">2273579f-df2c-475c-a07d-5dd8c2ca165c</guid>
+            <pubDate>Mon, 21 Dec 2015 22:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Work]]></title>
+            <description><![CDATA[<article><h1>Work</h1><p>Work page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7973b60016feff0d0bc9cf0e542cff2ae5e76aae.jpg"></article>]]></description>
+            <link>https://thegrid.ai/deutsch/work/index.html</link>
+            <guid isPermaLink="false">78006d6a-3a86-44d7-a0c9-1b35244680a3</guid>
+            <pubDate>Mon, 21 Dec 2015 22:16:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[clients]]></title>
-            <description><![CDATA[<article><h1>clients</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e247d859b06a433c967e0ef166b9880682d054a8.png"></article>]]></description>
-            <link>undefinedclients/index.html</link>
+            <description><![CDATA[<article><h1>clients</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66fa47a7435a3ca4770c0c14937ca2dd6bac84d.png"></article>]]></description>
+            <link>https://thegrid.ai/deutsch/clients/index.html</link>
             <guid isPermaLink="false">461d0dba-47b7-492a-aa0b-dcd24f4270a5</guid>
             <pubDate>Mon, 21 Dec 2015 22:08:03 GMT</pubDate>
         </item>
