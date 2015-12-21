@@ -1,0 +1,28 @@
+name: deutsch
+favicon: null
+layout_spectrum: 0.10330060916021466
+typography_spectrum: 0.6094524569343776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#b5aea8'
+    - '#5b7045'
+    - '#f3f3f3'
+    - '#273951'
+    - '#d15e03'
+  brandStrength: 0.875
+  lightness: 0.6612049881368876
+  saturation: 0.14358940511010587
+  rhythmicContrast: 0.9168129111640155
+purpose: []
